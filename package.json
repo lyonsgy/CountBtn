@@ -1,7 +1,7 @@
 {
   "name": "gy-count-btn",
   "description": "a count down button",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "author": "gy_lyons <gy_lyons@163.com>",
   "license": "MIT",
   "private": false,
