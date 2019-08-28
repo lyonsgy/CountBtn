@@ -27,7 +27,7 @@ let config = {
   noCanClass: 'no-can'
 }
 let countBtn = {
-  name: 'CountBtn',
+  name: 'GYCountBtn',
   props: {
     config: {
       type: Object

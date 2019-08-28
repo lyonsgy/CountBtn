@@ -1,4 +1,4 @@
-# npcountbtn
+# gycountbtn
 
 > A Vue.js project
 

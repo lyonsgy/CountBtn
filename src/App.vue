@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <CountBtn class="countBtn" :config="config" ref="countBtn"></CountBtn>
+    <GYCountBtn class="countBtn" :config="config" ref="countBtn"></GYCountBtn>
   </div>
 </template>
 

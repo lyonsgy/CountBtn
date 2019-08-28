@@ -1,7 +1,7 @@
-import CountBtn from './packages/countBtn/index.js'
+import GYCountBtn from './packages/gyCountBtn/index.js'
 
 const components = [
-  CountBtn
+  GYCountBtn
 ]
 
 const install = function (Vue, opts = {}) {
@@ -17,5 +17,5 @@ if (typeof window !== 'undefined' && window.Vue) {
 
 export default {
   install,
-  CountBtn
+  GYCountBtn
 }
